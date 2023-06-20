@@ -24,7 +24,7 @@ temp = soup.findAll("span", attrs={"class":"wu-value wu-value-to"})
 #quits if user inputted a city that is not in the state they entered
 for test in lo:
         if "--" in test.text:
-                print("❌❌❌ ERROR ❌❌❌\n" + Fore.RED + city.title()+ " is not a city in "+state.upper()+". Rerun your program and enter a valid city.")
+                print("❌❌❌ ERROR ❌❌❌\n" + Fore.RED + city.title()+", "+state.upper()+" is not a valid location. Rerun your program and enter a valid city.")
                 quit()
 
 print(">")
