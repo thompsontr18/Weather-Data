@@ -1,6 +1,6 @@
-# Weather Script Using Web Scraping
+# Current Weather of any United States Location
 
-<h3>This is a simple Python program that supplies the user with weather information based on the location that they provide.<br><br>
+<h3>This is a simple Python program that supplies the user with weather information based on the location that they provide. This project uses web scraping to find its data.<br><br>
 As of now, this program only works for cities in the United States.<br></h3>
 
 <h5>If you recieve an error that says</h5>
