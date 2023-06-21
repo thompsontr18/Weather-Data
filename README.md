@@ -1,4 +1,18 @@
 # Weather Script Using Web Scraping
 
-This is a simple Python program that supplies the user with weather information based on the location that they provide.<br>
-As of now, this program only works for cities in the United States.
+<h3>This is a simple Python program that supplies the user with weather information based on the location that they provide.<br><br>
+As of now, this program only works for cities in the United States.<br></h3>
+
+<h5>If you recieve an error that says</h5>
+
+```diff
+-TabError: inconsistent use of tabs and spaces in indentation
+
+```
+
+<h5>Then run the code below</h5>
+
+```diff
+autopep8 -i 𝙛𝙞𝙡𝙚𝙣𝙖𝙢𝙚
+
+```
