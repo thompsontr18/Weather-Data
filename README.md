@@ -16,3 +16,5 @@ As of now, this program only works for cities in the United States.<br></h3>
 autopep8 -i 𝙛𝙞𝙡𝙚𝙣𝙖𝙢𝙚
 
 ```
+
+<h5>Make sure both files are in the same folder, as well as changing the filename of the txt file in your Python script</h5>
