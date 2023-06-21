@@ -17,7 +17,7 @@ city = input("> Enter your city: ")
 url = "https://www.wunderground.com/weather/us/"+state+"/"+city
 
 
-DICT = pathlib.Path(__file__).parent / "𝙛𝙞𝙡𝙚𝙣𝙖𝙢𝙚"
+DICT = pathlib.Path(__file__).parent / "𝙛𝙞𝙡𝙚𝙣𝙖𝙢𝙚.𝙩𝙭𝙩"
 
 cities = {
 	word.title()
